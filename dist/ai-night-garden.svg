@@ -16,6 +16,10 @@
       <feGaussianBlur stdDeviation="4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <filter id="titleGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3.5" flood-color="#120b1c" flood-opacity="0.85"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#ffd8ec" flood-opacity="0.22"/>
+    </filter>
   </defs>
 
   <rect width="760" height="360" rx="22" fill="url(#bg)"/>
@@ -29,17 +33,20 @@
     <circle cx="230" cy="43" r="1.4"><animate attributeName="opacity" values="1;.25;1" dur="4.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <circle cx="380" cy="170" r="88" fill="url(#moonGlow)" opacity=".35">
-    <animate attributeName="r" values="82;94;82" dur="6s" repeatCount="indefinite"/>
+  <circle cx="380" cy="168" r="94" fill="url(#moonGlow)" opacity=".4">
+    <animate attributeName="r" values="88;98;88" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="380" cy="170" r="54" fill="#f8d5eb" opacity=".96"/>
-  <circle cx="397" cy="154" r="52" fill="#241936"/>
-  <text x="380" y="176" text-anchor="middle" fill="#fff8fc" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">Prarthana</text>
-  <rect x="289" y="184" width="182" height="24" rx="12" fill="#120d1b" opacity=".86" stroke="#ffb6d8" stroke-opacity=".35"/>
-  <text x="380" y="200" text-anchor="middle" fill="#fff8fc" font-family="Georgia, 'Times New Roman', serif" font-size="12.5" font-style="italic" font-weight="600">building thoughtful AI systems ✨</text>
+  <circle cx="380" cy="168" r="60" fill="#f8d5eb" opacity=".97"/>
+  <circle cx="400" cy="149" r="56" fill="#241936"/>
 
-  <ellipse cx="380" cy="170" rx="255" ry="112" fill="none" stroke="#d9a7ff" stroke-opacity=".16" stroke-dasharray="5 10"/>
-  <ellipse cx="380" cy="170" rx="185" ry="78" fill="none" stroke="#ff9fcb" stroke-opacity=".13" stroke-dasharray="3 9"/>
+  <g filter="url(#titleGlow)">
+    <text x="380" y="168" text-anchor="middle" fill="#fffafc" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" letter-spacing="0.4">Prarthana</text>
+  </g>
+  <rect x="246" y="192" width="268" height="32" rx="16" fill="#120d1b" opacity=".88" stroke="#ffb6d8" stroke-width="1.1" stroke-opacity=".5"/>
+  <text x="380" y="213" text-anchor="middle" fill="#fff8fc" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" font-weight="600">building thoughtful AI systems ✨</text>
+
+  <ellipse cx="380" cy="168" rx="255" ry="112" fill="none" stroke="#d9a7ff" stroke-opacity=".16" stroke-dasharray="5 10"/>
+  <ellipse cx="380" cy="168" rx="185" ry="78" fill="none" stroke="#ff9fcb" stroke-opacity=".13" stroke-dasharray="3 9"/>
 
   <g font-family="Georgia, 'Times New Roman', serif" font-size="13" text-anchor="middle">
     <g transform="translate(145 145)">
