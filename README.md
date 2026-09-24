@@ -1,5 +1,19 @@
-# 💫 About Me:
-## 🎀 About Me<br><br>Hi, I’m Prarthana! 💗<br><br>I’m an MS student in AI Engineering (Information Security) at Carnegie Mellon University, building at the intersection of **software engineering, AI/ML systems, and AI security**.<br><br>I love working on **LLM systems, RAG, AI agents, backend/ML infrastructure, and trustworthy AI**, especially projects that go beyond demos and need to be reliable, scalable, and secure.<br><br>My experience spans AI research, agentic workflows, NLP, backend systems, and production AI infrastructure.<br><br>🫧 **Currently interested in**  <br>`Software Engineering` · `ML Engineering` · `Applied AI` · `AI Infrastructure` · `LLM Systems` · `AI Security`<br><br>💻 Usually building something  <br>✨ Probably experimenting with a new AI idea  <br>🎀 Definitely making the README cute while I’m at it
+# ✨ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
+Hi, I’m Prarthana! 💗
+
+I’m an MS student in AI Engineering (Information Security) at Carnegie Mellon University, with interests spanning **software engineering, AI/ML systems, and secure AI**.
+
+I enjoy building **LLM systems, RAG pipelines, AI agents, backend infrastructure, and trustworthy AI systems**, with a focus on turning prototypes into reliable, scalable products.
+
+My experience includes AI research, NLP, agentic workflows, backend systems, and production AI infrastructure.
+
+🌸 **Currently exploring**  
+`Software Engineering` · `ML Engineering` · `Applied AI` · `AI Infrastructure` · `LLM Systems` · `AI Security`
+
+💻 Usually building something
+✨ Probably experimenting with a new AI idea
+✨ Definitely making the README cute while I’m at it
 
 
 ## 🌐 Socials:
