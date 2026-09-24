@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=38&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Prarthana+%F0%9F%8E%80;AI%2FML+Engineer+%E2%9C%A8+Software+Builder;LLM+Systems+%C2%B7+Agents+%C2%B7+AI+Security" alt="Prarthana Rout" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=40&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=820&height=72&lines=Hi%2C+I'm+Prarthana+%F0%9F%8E%80;AI%2FML+Engineer+%E2%9C%A8+Software+Builder;LLM+Systems+%C2%B7+Agents+%C2%B7+AI+Security" alt="Prarthana Rout" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2300&pause=800&color=C9A7FF&center=true&vCenter=true&width=800&height=38&lines=CMU+MS+AI+Engineering+%28Information+Security%29;Building+reliable%2C+scalable+%26+secure+AI+systems;2027+New+Grad+%C2%B7+SWE+%C2%B7+ML+Engineering+%C2%B7+Applied+AI" alt="focus" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=20&duration=2300&pause=800&color=C9A7FF&center=true&vCenter=true&width=820&height=42&lines=CMU+MS+AI+Engineering+%28Information+Security%29;Building+reliable%2C+scalable+%26+secure+AI+systems;2027+New+Grad+%C2%B7+SWE+%C2%B7+ML+Engineering+%C2%B7+Applied+AI" alt="focus" />
 
 <br/>
 
@@ -14,13 +14,13 @@
 
 ---
 
-# ✨ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+# 🎀 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-Hi, I’m Prarthana! 💗
+Hi, I’m **Prarthana**! 💗
 
-I’m an MS student in AI Engineering (Information Security) at Carnegie Mellon University, with interests spanning **software engineering, AI/ML systems, and secure AI**.
+I’m an MS student in **AI Engineering (Information Security)** at Carnegie Mellon University, with interests spanning **software engineering, AI/ML systems, and secure AI**.
 
-I enjoy building **LLM systems, RAG pipelines, AI agents, backend infrastructure, and trustworthy AI systems**, with a focus on turning prototypes into reliable, scalable products.
+I enjoy building **LLM systems, RAG pipelines, AI agents, backend infrastructure, and trustworthy AI systems**, with a focus on turning prototypes into *reliable, scalable products*.
 
 My experience includes AI research, NLP, agentic workflows, backend systems, and production AI infrastructure.
 
@@ -30,6 +30,18 @@ My experience includes AI research, NLP, agentic workflows, backend systems, and
 💻 Usually building something  
 ✨ Probably experimenting with a new AI idea  
 🎀 Definitely making the README cute while I’m at it
+
+---
+
+## 🌙 Prarthana's AI Night Garden
+
+<div align="center">
+
+<img alt="Prarthana's animated AI night garden" src="https://raw.githubusercontent.com/lassya2507/lassya2507/main/dist/ai-night-garden.svg" width="760" />
+
+<sub>an original little storybook-inspired universe of the things I keep coming back to: LLM systems, agents, RAG, ML infrastructure, and AI security ✨</sub>
+
+</div>
 
 ---
 
@@ -125,7 +137,7 @@ My experience includes AI research, NLP, agentic workflows, backend systems, and
 
 `LLM Systems` · `RAG` · `Agentic AI` · `ML Infrastructure` · `AI Security` · `Trustworthy AI` · `Adversarial ML`
 
-I’m especially interested in AI systems that work **beyond the demo**: reliable retrieval, measurable evaluation, scalable infrastructure, clear failure analysis, and security-aware design.
+I’m especially interested in AI systems that work **beyond the demo**: *reliable retrieval*, measurable evaluation, scalable infrastructure, clear failure analysis, and **security-aware design**.
 
 ---
 
