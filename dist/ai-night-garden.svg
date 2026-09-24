@@ -20,7 +20,6 @@
 
   <rect width="760" height="360" rx="22" fill="url(#bg)"/>
 
-  <!-- stars -->
   <g fill="#fff7fb">
     <circle cx="74" cy="54" r="2"><animate attributeName="opacity" values=".25;1;.25" dur="3.4s" repeatCount="indefinite"/></circle>
     <circle cx="141" cy="88" r="1.6"><animate attributeName="opacity" values="1;.3;1" dur="4.2s" repeatCount="indefinite"/></circle>
@@ -30,20 +29,18 @@
     <circle cx="230" cy="43" r="1.4"><animate attributeName="opacity" values="1;.25;1" dur="4.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- moon + home -->
   <circle cx="380" cy="170" r="88" fill="url(#moonGlow)" opacity=".35">
     <animate attributeName="r" values="82;94;82" dur="6s" repeatCount="indefinite"/>
   </circle>
   <circle cx="380" cy="170" r="54" fill="#f8d5eb" opacity=".96"/>
   <circle cx="397" cy="154" r="52" fill="#241936"/>
   <text x="380" y="176" text-anchor="middle" fill="#fff8fc" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">Prarthana</text>
-  <text x="380" y="199" text-anchor="middle" fill="#e9c7ff" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-style="italic">building thoughtful AI systems ✨</text>
+  <rect x="289" y="184" width="182" height="24" rx="12" fill="#120d1b" opacity=".86" stroke="#ffb6d8" stroke-opacity=".35"/>
+  <text x="380" y="200" text-anchor="middle" fill="#fff8fc" font-family="Georgia, 'Times New Roman', serif" font-size="12.5" font-style="italic" font-weight="600">building thoughtful AI systems ✨</text>
 
-  <!-- orbit paths -->
   <ellipse cx="380" cy="170" rx="255" ry="112" fill="none" stroke="#d9a7ff" stroke-opacity=".16" stroke-dasharray="5 10"/>
   <ellipse cx="380" cy="170" rx="185" ry="78" fill="none" stroke="#ff9fcb" stroke-opacity=".13" stroke-dasharray="3 9"/>
 
-  <!-- floating topic bubbles -->
   <g font-family="Georgia, 'Times New Roman', serif" font-size="13" text-anchor="middle">
     <g transform="translate(145 145)">
       <animateTransform attributeName="transform" type="translate" values="145 145;151 137;145 145" dur="5.6s" repeatCount="indefinite"/>
@@ -77,19 +74,17 @@
     </g>
   </g>
 
-  <!-- fireflies -->
   <g fill="#ffe680" filter="url(#softGlow)">
     <circle cx="108" cy="220" r="2.4"><animate attributeName="cy" values="220;203;220" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" repeatCount="indefinite"/></circle>
     <circle cx="676" cy="230" r="2.2"><animate attributeName="cy" values="230;214;230" dur="5.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
     <circle cx="511" cy="82" r="2"><animate attributeName="cy" values="82;70;82" dur="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- drifting petals -->
   <g fill="#ffacd2" opacity=".8">
     <ellipse cx="95" cy="105" rx="4" ry="8" transform="rotate(-28 95 105)"><animateTransform attributeName="transform" type="translate" values="0 0;18 18;0 0" dur="8s" repeatCount="indefinite"/></ellipse>
     <ellipse cx="688" cy="175" rx="4" ry="8" transform="rotate(35 688 175)"><animateTransform attributeName="transform" type="translate" values="0 0;-16 20;0 0" dur="9s" repeatCount="indefinite"/></ellipse>
     <ellipse cx="285" cy="83" rx="3.5" ry="7" transform="rotate(18 285 83)"><animateTransform attributeName="transform" type="translate" values="0 0;10 16;0 0" dur="7.2s" repeatCount="indefinite"/></ellipse>
   </g>
 
-  <text x="380" y="344" text-anchor="middle" fill="#bba9cf" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic">a tiny animated map of the things I keep coming back to ♡</text>
+  <text x="380" y="344" text-anchor="middle" fill="#cdbdde" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic">a tiny animated map of the things I keep coming back to ♡</text>
 </svg>
