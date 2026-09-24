@@ -11,9 +11,7 @@ My experience includes AI research, NLP, agentic workflows, backend systems, and
 🌸 **Currently exploring**  
 `Software Engineering` · `ML Engineering` · `Applied AI` · `AI Infrastructure` · `LLM Systems` · `AI Security`
 
-💻 Usually building something
-✨ Probably experimenting with a new AI idea
-✨ Definitely making the README cute while I’m at it
+<br>💻 Usually building something  <br>✨ Probably experimenting with a new AI idea  <br>🎀 Definitely making the README cute while I’m at it
 
 
 ## 🌐 Socials:
