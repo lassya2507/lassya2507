@@ -48,75 +48,75 @@
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="5.5s" repeatCount="indefinite"/>
-          <path d="M-17.2,10.9 q5.0,14.0 0,28.1" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-5.6,10.9 q-5.0,14.0 0,28.1" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M5.6,10.9 q5.0,14.0 0,28.1" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M17.2,10.9 q-5.0,14.0 0,28.1" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-17.2,11.0 q5.0,14.1 0,28.2" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-5.6,11.0 q-5.0,14.1 0,28.2" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M5.6,11.0 q5.0,14.1 0,28.2" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M17.2,11.0 q-5.0,14.1 0,28.2" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="31.2" ry="24.3" fill="#ff8fc7"/>
-        <ellipse cx="0" cy="-4.1" rx="29.6" ry="15.6" fill="#ffd2e9" opacity="0.75"/>
-        <circle cx="-8.7" cy="-1.6" r="3.2" fill="#4a3150"/>
-        <circle cx="8.7" cy="-1.6" r="3.2" fill="#4a3150"/>
+        <ellipse cx="0" cy="0" rx="31.3" ry="24.4" fill="#ff8fc7"/>
+        <ellipse cx="0" cy="-4.1" rx="29.7" ry="15.7" fill="#ffd2e9" opacity="0.75"/>
+        <circle cx="-8.8" cy="-1.6" r="3.2" fill="#4a3150"/>
+        <circle cx="8.8" cy="-1.6" r="3.2" fill="#4a3150"/>
         <circle cx="-7.8" cy="-2.8" r="1.1" fill="white"/>
         <circle cx="9.7" cy="-2.8" r="1.1" fill="white"/>
         <path d="M-5,5.0 Q0,6.6 5,5.0" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="150" y="210.2" text-anchor="middle" fill="#fff1f8" font-family="system-ui,sans-serif" font-size="12" font-weight="650">eco-resource-optimization</text>
-        <text x="150" y="225.2" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">★ 1 · Jupyter Notebook</text><g transform="translate(360,130)">
+    </g><text x="150" y="210.3" text-anchor="middle" fill="#fff1f8" font-family="system-ui,sans-serif" font-size="12" font-weight="650">eco-resource-optimization</text>
+        <text x="150" y="225.3" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">★ 1 · Jupyter Notebook</text><g transform="translate(360,130)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="5.5s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="6.3s" repeatCount="indefinite"/>
-          <path d="M-17.1,10.9 q5.0,14.0 0,27.9" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-5.6,10.9 q-5.0,14.0 0,27.9" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M5.6,10.9 q5.0,14.0 0,27.9" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M17.1,10.9 q-5.0,14.0 0,27.9" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-16.7,10.6 q5.0,13.7 0,27.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-5.5,10.6 q-5.0,13.7 0,27.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M5.5,10.6 q5.0,13.7 0,27.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M16.7,10.6 q-5.0,13.7 0,27.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="31.0" ry="24.2" fill="#c9a7ff"/>
-        <ellipse cx="0" cy="-4.0" rx="29.5" ry="15.5" fill="#eadcff" opacity="0.75"/>
-        <circle cx="-8.7" cy="-1.6" r="3.2" fill="#4a3150"/>
-        <circle cx="8.7" cy="-1.6" r="3.2" fill="#4a3150"/>
-        <circle cx="-7.8" cy="-2.8" r="1.1" fill="white"/>
-        <circle cx="9.6" cy="-2.8" r="1.1" fill="white"/>
-        <path d="M-5,5.0 Q0,6.5 5,5.0" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <ellipse cx="0" cy="0" rx="30.4" ry="23.7" fill="#c9a7ff"/>
+        <ellipse cx="0" cy="-4.0" rx="28.9" ry="15.2" fill="#eadcff" opacity="0.75"/>
+        <circle cx="-8.5" cy="-1.5" r="3.2" fill="#4a3150"/>
+        <circle cx="8.5" cy="-1.5" r="3.2" fill="#4a3150"/>
+        <circle cx="-7.6" cy="-2.7" r="1.1" fill="white"/>
+        <circle cx="9.4" cy="-2.7" r="1.1" fill="white"/>
+        <path d="M-5,4.9 Q0,6.4 5,4.9" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="360" y="190.0" text-anchor="middle" fill="#f6efff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">lung-segmentation</text>
-        <text x="360" y="205.0" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">★ 1 · Jupyter Notebook</text><g transform="translate(590,155)">
+    </g><text x="360" y="189.4" text-anchor="middle" fill="#f6efff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">lung-segmentation</text>
+        <text x="360" y="204.4" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">★ 1 · Jupyter Notebook</text><g transform="translate(590,155)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="6.2s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="7.1s" repeatCount="indefinite"/>
-          <path d="M-12.4,7.9 q5.0,10.1 0,20.2" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-4.0,7.9 q-5.0,10.1 0,20.2" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M4.0,7.9 q5.0,10.1 0,20.2" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M12.4,7.9 q-5.0,10.1 0,20.2" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-12.0,7.6 q5.0,9.8 0,19.6" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.9,7.6 q-5.0,9.8 0,19.6" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.9,7.6 q5.0,9.8 0,19.6" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M12.0,7.6 q-5.0,9.8 0,19.6" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="22.5" ry="17.5" fill="#91d7ff"/>
-        <ellipse cx="0" cy="-2.9" rx="21.4" ry="11.2" fill="#d9f3ff" opacity="0.75"/>
-        <circle cx="-6.3" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="6.3" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="-5.6" cy="-2.0" r="1.1" fill="white"/>
-        <circle cx="7.0" cy="-2.0" r="1.1" fill="white"/>
-        <path d="M-5,3.6 Q0,4.7 5,3.6" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <ellipse cx="0" cy="0" rx="21.8" ry="17.0" fill="#91d7ff"/>
+        <ellipse cx="0" cy="-2.8" rx="20.7" ry="10.9" fill="#d9f3ff" opacity="0.75"/>
+        <circle cx="-6.1" cy="-1.1" r="3.2" fill="#4a3150"/>
+        <circle cx="6.1" cy="-1.1" r="3.2" fill="#4a3150"/>
+        <circle cx="-5.4" cy="-2.0" r="1.1" fill="white"/>
+        <circle cx="6.7" cy="-2.0" r="1.1" fill="white"/>
+        <path d="M-5,3.5 Q0,4.6 5,3.5" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="590" y="206.5" text-anchor="middle" fill="#eefaff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">leetcode-pattern-journey</text>
-        <text x="590" y="221.5" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Python · 36d ago</text><g transform="translate(675,285)">
+    </g><text x="590" y="205.8" text-anchor="middle" fill="#eefaff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">leetcode-pattern-journey</text>
+        <text x="590" y="220.8" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Python · 37d ago</text><g transform="translate(675,285)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="6.9s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="5.5s" repeatCount="indefinite"/>
-          <path d="M-11.6,7.4 q5.0,9.5 0,19.0" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.8,7.4 q-5.0,9.5 0,19.0" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.8,7.4 q5.0,9.5 0,19.0" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.6,7.4 q-5.0,9.5 0,19.0" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-11.3,7.2 q5.0,9.3 0,18.5" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.7,7.2 q-5.0,9.3 0,18.5" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.7,7.2 q5.0,9.3 0,18.5" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.3,7.2 q-5.0,9.3 0,18.5" stroke="#bd6857" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="21.1" ry="16.5" fill="#ffb7a7"/>
-        <ellipse cx="0" cy="-2.7" rx="20.1" ry="10.6" fill="#ffe1da" opacity="0.75"/>
-        <circle cx="-5.9" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="5.9" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="-5.3" cy="-1.9" r="1.1" fill="white"/>
-        <circle cx="6.5" cy="-1.9" r="1.1" fill="white"/>
-        <path d="M-5,3.4 Q0,4.4 5,3.4" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <ellipse cx="0" cy="0" rx="20.6" ry="16.1" fill="#ffb7a7"/>
+        <ellipse cx="0" cy="-2.7" rx="19.6" ry="10.3" fill="#ffe1da" opacity="0.75"/>
+        <circle cx="-5.8" cy="-1.0" r="3.2" fill="#4a3150"/>
+        <circle cx="5.8" cy="-1.0" r="3.2" fill="#4a3150"/>
+        <circle cx="-5.1" cy="-1.9" r="1.1" fill="white"/>
+        <circle cx="6.4" cy="-1.9" r="1.1" fill="white"/>
+        <path d="M-5,3.3 Q0,4.3 5,3.3" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="675" y="335.1" text-anchor="middle" fill="#fff3ef" font-family="system-ui,sans-serif" font-size="12" font-weight="650">ai-sales-research-copilot</text>
-        <text x="675" y="350.1" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Code · 235d ago</text><g transform="translate(520,350)">
+    </g><text x="675" y="334.6" text-anchor="middle" fill="#fff3ef" font-family="system-ui,sans-serif" font-size="12" font-weight="650">ai-sales-research-copilot</text>
+        <text x="675" y="349.6" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Code · 236d ago</text><g transform="translate(520,350)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="4.8s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="6.3s" repeatCount="indefinite"/>
-          <path d="M-11.2,7.1 q5.0,9.1 0,18.3" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.7,7.1 q-5.0,9.1 0,18.3" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.7,7.1 q5.0,9.1 0,18.3" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.2,7.1 q-5.0,9.1 0,18.3" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-11.1,7.1 q5.0,9.1 0,18.2" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.6,7.1 q-5.0,9.1 0,18.2" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.6,7.1 q5.0,9.1 0,18.2" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.1,7.1 q-5.0,9.1 0,18.2" stroke="#4a9f88" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
         <ellipse cx="0" cy="0" rx="20.3" ry="15.8" fill="#9ee7d2"/>
         <ellipse cx="0" cy="-2.6" rx="19.3" ry="10.1" fill="#dff9f1" opacity="0.75"/>
@@ -127,58 +127,58 @@
         <path d="M-5,3.2 Q0,4.3 5,3.2" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
     </g><text x="520" y="399.3" text-anchor="middle" fill="#effcf8" font-family="system-ui,sans-serif" font-size="12" font-weight="650">skills-introduction-to-githu…</text>
-        <text x="520" y="414.3" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Code · 297d ago</text><g transform="translate(310,360)">
+        <text x="520" y="414.3" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Code · 298d ago</text><g transform="translate(310,360)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="5.5s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="7.1s" repeatCount="indefinite"/>
-          <path d="M-11.3,7.2 q5.0,9.2 0,18.4" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.7,7.2 q-5.0,9.2 0,18.4" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.7,7.2 q5.0,9.2 0,18.4" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.3,7.2 q-5.0,9.2 0,18.4" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-11.6,7.4 q5.0,9.5 0,18.9" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.8,7.4 q-5.0,9.5 0,18.9" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.8,7.4 q5.0,9.5 0,18.9" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.6,7.4 q-5.0,9.5 0,18.9" stroke="#b94d89" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="20.5" ry="16.0" fill="#ff8fc7"/>
-        <ellipse cx="0" cy="-2.7" rx="19.5" ry="10.2" fill="#ffd2e9" opacity="0.75"/>
-        <circle cx="-5.7" cy="-1.0" r="3.2" fill="#4a3150"/>
-        <circle cx="5.7" cy="-1.0" r="3.2" fill="#4a3150"/>
-        <circle cx="-5.1" cy="-1.8" r="1.1" fill="white"/>
-        <circle cx="6.4" cy="-1.8" r="1.1" fill="white"/>
-        <path d="M-5,3.3 Q0,4.3 5,3.3" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <ellipse cx="0" cy="0" rx="21.0" ry="16.4" fill="#ff8fc7"/>
+        <ellipse cx="0" cy="-2.7" rx="20.0" ry="10.5" fill="#ffd2e9" opacity="0.75"/>
+        <circle cx="-5.9" cy="-1.1" r="3.2" fill="#4a3150"/>
+        <circle cx="5.9" cy="-1.1" r="3.2" fill="#4a3150"/>
+        <circle cx="-5.3" cy="-1.9" r="1.1" fill="white"/>
+        <circle cx="6.5" cy="-1.9" r="1.1" fill="white"/>
+        <path d="M-5,3.4 Q0,4.4 5,3.4" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="310" y="409.5" text-anchor="middle" fill="#fff1f8" font-family="system-ui,sans-serif" font-size="12" font-weight="650">skills-communicate-using-mar…</text>
-        <text x="310" y="424.5" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Code · 297d ago</text><g transform="translate(120,330)">
+    </g><text x="310" y="410.0" text-anchor="middle" fill="#fff1f8" font-family="system-ui,sans-serif" font-size="12" font-weight="650">skills-communicate-using-mar…</text>
+        <text x="310" y="425.0" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Code · 298d ago</text><g transform="translate(120,330)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="6.2s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="5.5s" repeatCount="indefinite"/>
-          <path d="M-11.9,7.6 q5.0,9.7 0,19.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-3.9,7.6 q-5.0,9.7 0,19.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M3.9,7.6 q5.0,9.7 0,19.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M11.9,7.6 q-5.0,9.7 0,19.4" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-12.3,7.8 q5.0,10.1 0,20.1" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-4.0,7.8 q-5.0,10.1 0,20.1" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M4.0,7.8 q5.0,10.1 0,20.1" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M12.3,7.8 q-5.0,10.1 0,20.1" stroke="#7650b7" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="21.6" ry="16.9" fill="#c9a7ff"/>
-        <ellipse cx="0" cy="-2.8" rx="20.5" ry="10.8" fill="#eadcff" opacity="0.75"/>
-        <circle cx="-6.1" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="6.1" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="-5.4" cy="-1.9" r="1.1" fill="white"/>
-        <circle cx="6.7" cy="-1.9" r="1.1" fill="white"/>
-        <path d="M-5,3.5 Q0,4.5 5,3.5" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <ellipse cx="0" cy="0" rx="22.3" ry="17.4" fill="#c9a7ff"/>
+        <ellipse cx="0" cy="-2.9" rx="21.2" ry="11.2" fill="#eadcff" opacity="0.75"/>
+        <circle cx="-6.3" cy="-1.1" r="3.2" fill="#4a3150"/>
+        <circle cx="6.3" cy="-1.1" r="3.2" fill="#4a3150"/>
+        <circle cx="-5.6" cy="-2.0" r="1.1" fill="white"/>
+        <circle cx="6.9" cy="-2.0" r="1.1" fill="white"/>
+        <path d="M-5,3.6 Q0,4.7 5,3.6" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="120" y="380.6" text-anchor="middle" fill="#f6efff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">Test-Toolchains</text>
-        <text x="120" y="395.6" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Jupyter Notebook · 378d ago</text><g transform="translate(245,245)">
+    </g><text x="120" y="381.3" text-anchor="middle" fill="#f6efff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">Test-Toolchains</text>
+        <text x="120" y="396.3" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Jupyter Notebook · 379d ago</text><g transform="translate(245,245)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0,0; 7,-9; 0,0" dur="6.9s" repeatCount="indefinite"/>
         
         <g>
           <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-3 0 0" dur="6.3s" repeatCount="indefinite"/>
-          <path d="M-12.6,8.0 q5.0,10.3 0,20.7" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-4.1,8.0 q-5.0,10.3 0,20.7" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M4.1,8.0 q5.0,10.3 0,20.7" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M12.6,8.0 q-5.0,10.3 0,20.7" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/>
+          <path d="M-12.9,8.2 q5.0,10.6 0,21.1" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M-4.2,8.2 q-5.0,10.6 0,21.1" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M4.2,8.2 q5.0,10.6 0,21.1" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M12.9,8.2 q-5.0,10.6 0,21.1" stroke="#3d8fb9" stroke-width="3" fill="none" stroke-linecap="round"/>
         </g>
-        <ellipse cx="0" cy="0" rx="23.0" ry="17.9" fill="#91d7ff"/>
-        <ellipse cx="0" cy="-3.0" rx="21.8" ry="11.5" fill="#d9f3ff" opacity="0.75"/>
-        <circle cx="-6.4" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="6.4" cy="-1.1" r="3.2" fill="#4a3150"/>
-        <circle cx="-5.7" cy="-2.1" r="1.1" fill="white"/>
-        <circle cx="7.1" cy="-2.1" r="1.1" fill="white"/>
-        <path d="M-5,3.7 Q0,4.8 5,3.7" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <ellipse cx="0" cy="0" rx="23.5" ry="18.3" fill="#91d7ff"/>
+        <ellipse cx="0" cy="-3.1" rx="22.3" ry="11.7" fill="#d9f3ff" opacity="0.75"/>
+        <circle cx="-6.6" cy="-1.2" r="3.2" fill="#4a3150"/>
+        <circle cx="6.6" cy="-1.2" r="3.2" fill="#4a3150"/>
+        <circle cx="-5.9" cy="-2.1" r="1.1" fill="white"/>
+        <circle cx="7.3" cy="-2.1" r="1.1" fill="white"/>
+        <path d="M-5,3.8 Q0,4.9 5,3.8" stroke="#784f70" stroke-width="1.8" fill="none" stroke-linecap="round"/>
       </g>
-    </g><text x="245" y="297.0" text-anchor="middle" fill="#eefaff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">Prarthana_Lab10_jUnit</text>
-        <text x="245" y="312.0" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Jupyter Notebook · 504d ago</text><g transform="translate(24,26)">
+    </g><text x="245" y="297.5" text-anchor="middle" fill="#eefaff" font-family="system-ui,sans-serif" font-size="12" font-weight="650">Prarthana_Lab10_jUnit</text>
+        <text x="245" y="312.5" text-anchor="middle" fill="#ba9db7" font-family="system-ui,sans-serif" font-size="10">Jupyter Notebook · 505d ago</text><g transform="translate(24,26)">
       <rect width="252" height="63" rx="14" fill="#0d1020" opacity="0.72"/>
       <text x="15" y="23" fill="#ffd9ec" font-family="system-ui,sans-serif" font-size="12" font-weight="700">🫧 Repo Aquarium</text>
       <text x="15" y="42" fill="#cbb1c8" font-family="system-ui,sans-serif" font-size="10">bigger = more stars · glow = recently active</text>
